@@ -1,0 +1,22 @@
+{
+  "inscritos": [
+    {
+      "name": "André Atílio Spader",
+      "email": "andre.spader@gmail.com",
+      "state": "Santa Catarina",
+      "pagamento": "nok"
+    },
+    {
+      "name": "Éverton Amorim",
+      "email": "everton@evertonamorim.com.br",
+      "state": "Santa Catarina",
+      "pagamento": "nok"
+    },
+    {
+      "name": "ANTELINO ALENCAR DÔRES JÚNIOR",
+      "email": "antelino@hotmail.com",
+      "state": "São Paulo",
+      "pagamento": "ok"
+    }
+  ]
+}
